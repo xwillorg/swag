@@ -1,0 +1,6 @@
+todo: 
+- content structure with folders 
+- github action pipeline to organize content.js 
+- 3 layout starter - custom fonts 
+backlog: 
+- simple js, select elements
