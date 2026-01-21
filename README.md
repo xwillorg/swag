@@ -1,5 +1,8 @@
 # WWW-design
 
+## Course
+The course really should be centered around your ideas and questions. For each class of the course there will a dedicated `.md` file, documenting everything that we did during the class. You can find them in `/course`.
+
 ## Setup
 
 We are using the following three core technologies: **VSCode, Git, and Vercel**. You are free to experiment with other services or tools, but for the sake of consistency and easier troubleshooting with your peers, we recommend sticking with this shared environment.
