@@ -21,13 +21,17 @@ After installing, you can access it from the bottom status bar in VSCode.
 Git is required for version control and for interacting with GitHub. Install it using the instructions provided in the official guide:
 [How to Install Git](https://github.com/git-guides/install-git)
 
+#### Ssh Key
+The ssh key that you create on your local computer and then later on share with Github, works like a form of authentication. This way you and Github can be sure, that you are authorised to make changes in your code. Before going forward we need to setup a working ssh key: [Generating a new ssh key and adding it to the ssh agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 #### GitHub
 
 Our course repository is hosted on GitHub. To work independently, you will need your own copy of the repository. This is done by **forking** the main repository:
 
 1. Open the course repository link: [www-design](https://github.com/maaaaaaaaaaaaaaaax/www-design)
 2. Click the **Fork** button in the top right corner – this creates a copy of the repository under your account.
-3. Clone your forked repository locally using Git: [https://docs.github.com/de/repositories/creating-and-managing-repositories/cloning-a-repository](https://docs.github.com/de/repositories/creating-and-managing-repositories/cloning-a-repository)
+3. Make your you have created a working Ssh Key in the previous step
+4. Clone your forked repository locally using Git: [https://docs.github.com/de/repositories/creating-and-managing-repositories/cloning-a-repository](https://docs.github.com/de/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 ### Vercel
 
